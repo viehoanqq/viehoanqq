@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viehoanqq
-- 👀 I’m interested in sech
+- 👀 I’m interested in nothing
 - 🌱 I’m currently learning code
 
 <!---
